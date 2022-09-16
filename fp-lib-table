@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/peter/Downloads/Keebio-Parts.pretty-master/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "adafruit oled")(type "KiCad")(uri "C:/Users/peter/Downloads/Adafruit-128x32-I2C-OLED-Breakout-PCB-master/adafruit oled.pretty")(options "")(descr ""))
+  (lib (name "PeteCB")(type "KiCad")(uri "${KIPRJMOD}/PeteCB Kicad Library/PeteCB.pretty")(options "")(descr ""))
+)
