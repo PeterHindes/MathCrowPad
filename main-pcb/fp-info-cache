@@ -1,4 +1,4 @@
-20671065278758814
+20672728854330040
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -76230,28 +76230,35 @@ Diode-dual
 10
 2
 PeteCB
-KB2040 (modified from Elite-C-castellated-24pin)
+KB2040 smd castellated
 
 
 0
 26
 26
 PeteCB
-KB2040 through hole hybrid (modified from Elite-C-castellated-24pin-holes)
+KB2040 through hole hybrid
 
 
 0
 52
 26
 PeteCB
-KB2040 through hole only (modified from Elite-C-castellated-24pin-holes)
+KB2040 through hole only
 
 
 0
 26
 26
 PeteCB
-KB2040 through hole only (modified from Elite-C-castellated-24pin-holes) (top mount 3d model view)
+KB2040 through hole only (top mount 3d model view)
+
+
+0
+26
+26
+PeteCB
+KB2040 through hole only (top mount with hotpins 3d model view)
 
 
 0
@@ -76276,14 +76283,14 @@ SW_Cherry_MX_1.00u_PCB_WITH_SK6812MINI-E
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
-10
+6
 6
 PeteCB
 SW_Cherry_MX_2.00u_PCB_WITH_SK6812MINI-E
 Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 2.00u PCB
 0
-10
+6
 6
 PeteCB
 m2.5 hole
