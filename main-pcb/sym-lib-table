@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "PeteCB")(type "KiCad")(uri "${KIPRJMOD}/../Project Libraries/PeteCB-Kicad-Library/PeteCB.kicad_sym")(options "")(descr ""))
+  (lib (name "LED")(type "KiCad")(uri "${KIPRJMOD}/../Project Libraries/Led Schematic/LED.kicad_sym")(options "")(descr ""))
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/../Project Libraries/Keebio-Kicad-Library/keebio-components/keebio.kicad_sym")(options "")(descr ""))
+)

@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Project Libraries/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "adafruit oled")(type "KiCad")(uri "C:/Users/peter/Downloads/Adafruit-128x32-I2C-OLED-Breakout-PCB-master/adafruit oled.pretty")(options "")(descr "")(disabled))
-  (lib (name "PeteCB")(type "KiCad")(uri "${KIPRJMOD}/Project Libraries/PeteCB Kicad Library/PeteCB.pretty")(options "")(descr ""))
-)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "PeteCB")(type "KiCad")(uri "${KIPRJMOD}/../Project Libraries/PeteCB-Kicad-Library/PeteCB.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/../Project Libraries/Keebio-Kicad-Library/Keebio-Parts.pretty")(options "")(descr ""))
+)
