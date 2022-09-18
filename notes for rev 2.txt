@@ -1,0 +1,16 @@
+Issues with rev1:
+The led library I made has the wrong pins
+The two top rotary encoders are not electricaly connected to ground, the ground plane is dissconnected
+The rotary encoder non electrical holes are not plated for soldering
+Probably want to use a plate mount for v2
+screw hole on the bottom right, the screw head causes friction with the stabilizer bar
+stabilizer stickers cover the vanity logos
+
+Other Notes:
+reset button on the kb2040 is hard to press when bottom mounted, top mount is possible with rev1 but not tested
+possibly add side mounted reset button to board like levinson
+unfixable without plate, switches lift up from unsoldered side
+Matrix is not aligned with the key positions in the keymap. Perhaps the enter key should be moved up in th ematrix and the add key
+
+Hardware Parts Selection:
+The rotary encoders appear to trigger a rotation when they are clicked -- This may be a design error, investigating
