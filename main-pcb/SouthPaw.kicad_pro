@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "SouthPaw.dsn",
-      "step": "",
+      "step": "SouthPaw.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
