@@ -2,28 +2,28 @@ Issues with rev1:
 The led library I made has the wrong pins -- Fixed rev2
 The two top rotary encoders are not electricaly connected to ground, the ground plane is dissconnected -- removed ground plane, used new router, fixed
 The rotary encoder non electrical holes are not plated for soldering -- fixed
-Probably want to use a plate mount for v2
+Probably want to use a plate mount for v2 -- Holes added, check cad before order
 screw hole on the bottom right, the screw head causes friction with the stabilizer bar -- fixed
 stabilizer stickers cover the vanity logos -- logos removed
-The miso pin may be a better driver for the rgb backlight look into qmk drivers
+The miso pin may be a better driver for the rgb backlight look into qmk drivers -- used, testing needed when sample recived
 
 Other Notes:
-reset button on the kb2040 is hard to press when bottom mounted, top mount is possible with rev1 but not tested
-possibly add side mounted reset button to board like levinson
+reset button on the kb2040 is hard to press when bottom mounted, top mount is possible with rev1 but not tested -- top mounted design complete
+possibly add side mounted reset button to board like levinson -- not needed see above
 unfixable without plate, switches lift up from unsoldered side
 Matrix is not aligned with the key positions in the keymap. Perhaps the enter key should be moved up in th ematrix and the add key
 The South paw logo is too small
-Logos on back will be covered
+Logos on back will be covered -- removed
 
 
 Hardware Parts Selection:
 The rotary encoders appear to trigger a rotation when they are clicked -- This may be a design error, investigating
-Will need to order more kb2040s
+Will need to order more kb2040s -- done
 
 Current Design Notes TODO
-no clearance for stema connector on top mounted desing, route cable between keys with underside cutout -- done
+no clearance for stema connector on top mounted design, route cable between keys with underside cutout -- replaced with rotated mount design
 Consider pin socketed mounting -- done
-consider hot swap keys
-design needs to use switch plate which will require diffrent stabilizers
+consider hot swap keys -- parts ordered, make footrpints next
+design needs to use switch plate which will require diffrent stabilizers -- ordered, check plate pattern fits in progress
 
 The CAD model for the oled does not line up with the screw holes
