@@ -379,7 +379,6 @@
         "microvia_drill": 0.1,
         "name": "Data",
         "nets": [
-          "/ENCA",
           "Net-(D1-Pad1)",
           "Net-(D10-Pad1)",
           "Net-(D11-Pad1)",
@@ -428,8 +427,6 @@
           "Net-(SW8-Pad22)",
           "unconnected-(SW22-Pad22)",
           "unconnected-(U1-Pad0)",
-          "unconnected-(U1-Pad15)",
-          "unconnected-(U1-Pad16)",
           "unconnected-(U1-Pad22)",
           "unconnected-(U1-Pad25)"
         ],
@@ -470,7 +467,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "SouthPaw.dsn",
-      "step": "SouthPaw.step",
+      "step": "../Mech Cad Files/SouthPaw.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

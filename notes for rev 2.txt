@@ -1,6 +1,6 @@
 Issues with rev1:
-The led library I made has the wrong pins -- Fixed rev2
-The two top rotary encoders are not electricaly connected to ground, the ground plane is dissconnected -- removed ground plane, used new router, fixed
+X-The led library I made has the wrong pins -- Fixed rev2
+X-The two top rotary encoders are not electricaly connected to ground, the ground plane is dissconnected -- removed ground plane, used new router, fixed
 The rotary encoder non electrical holes are not plated for soldering -- fixed
 Probably want to use a plate mount for v2 -- Holes added, check cad before order
 screw hole on the bottom right, the screw head causes friction with the stabilizer bar -- fixed
@@ -21,9 +21,12 @@ The rotary encoders appear to trigger a rotation when they are clicked -- This m
 Will need to order more kb2040s -- done
 
 Current Design Notes TODO
-no clearance for stema connector on top mounted design, route cable between keys with underside cutout -- replaced with rotated mount design
-Consider pin socketed mounting -- done
-consider hot swap keys -- parts ordered, make footrpints next
+X-no clearance for stema connector on top mounted design, route cable between keys with underside cutout -- replaced with rotated mount design
+X-Consider pin socketed mounting -- done
+X-consider hot swap keys -- incorporated in design
 design needs to use switch plate which will require diffrent stabilizers -- ordered, check plate pattern fits in progress
+Use jumpers to choose fast led or nkr for encoders
 
 The CAD model for the oled does not line up with the screw holes
+
+consider product name "Math Crow Pad" logo of a crow with a graduation cap
