@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 437)
+    (start_pass_no 173)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -31,12 +31,12 @@
     (clear 250.0 (type smd_to_turn_gap))
     (clear 87.4 (type smd-smd))
   )
-  (padstack "Via[0-1]_800:300_um"
+  (padstack "Via[0-1]_900:300_um"
     (shape
-      (circle F.Cu 800.0 0.0 0.0)
+      (circle F.Cu 900.0 0.0 0.0)
     )
     (shape
-      (circle B.Cu 800.0 0.0 0.0)
+      (circle B.Cu 900.0 0.0 0.0)
     )
     (attach off)
   )
@@ -50,45 +50,45 @@
     (attach off)
   )
   (via 
-    "Via[0-1]_800:300_um" "Via[0-1]_800:300_um" default
+    "Via[0-1]_900:300_um" "Via[0-1]_900:300_um" default
   )
   (via 
     "Via[0-1]_1250:300_um" "Via[0-1]_1250:300_um" default
   )
   (via 
-    "Via[0-1]_800:300_um-kicad_default" "Via[0-1]_800:300_um" "kicad_default"
+    "Via[0-1]_900:300_um-kicad_default" "Via[0-1]_900:300_um" "kicad_default"
   )
   (via 
     "Via[0-1]_1250:300_um-kicad_default" "Via[0-1]_1250:300_um" "kicad_default"
   )
   (via 
-    "Via[0-1]_800:300_um-Data" "Via[0-1]_800:300_um" Data
+    "Via[0-1]_900:300_um-Data" "Via[0-1]_900:300_um" Data
   )
   (via 
     "Via[0-1]_1250:300_um-Data" "Via[0-1]_1250:300_um" Data
   )
   (via 
-    "Via[0-1]_800:300_um-Power" "Via[0-1]_800:300_um" Power
+    "Via[0-1]_900:300_um-Power" "Via[0-1]_900:300_um" Power
   )
   (via 
     "Via[0-1]_1250:300_um-Power" "Via[0-1]_1250:300_um" Power
   )
   (via_rule
-    default "Via[0-1]_800:300_um"
+    default "Via[0-1]_900:300_um"
   )
   (via_rule
-    "kicad_default" "Via[0-1]_800:300_um-kicad_default"
+    "kicad_default" "Via[0-1]_900:300_um-kicad_default"
   )
   (via_rule
-    Data "Via[0-1]_800:300_um-Data"
+    Data "Via[0-1]_900:300_um-Data"
   )
   (via_rule
     Power "Via[0-1]_1250:300_um-Power"
   )
   (class default
-    /Row1 /Row2 /Row3 /Row4 /Row5 /ENC1B GND /ColE
-    /ENC2B /ENC3B /ColB /ColA +5V /ledDriver /ColC /ColD
-    "unconnected-(U1-Pad13)" +3.3V
+    "/ENC1A(sharedInSclLedMode)" /ENC2A /Row1 /Row2 /Row3 /Row4 /Row5 /ENC1B
+    GND /ColE /ENC2B /ENC3B /ColB /ColA +5V /ledDriver
+    /ColC /ColD "unconnected-(U1-Pad13)" +3.3V "Net-(JPSP2-Pad1)" "Net-(JPSP3-Pad1)" /ENC3A
     (clearance_class default)
     (via_rule default)
     (rule
@@ -115,7 +115,7 @@
     "Net-(SW12-Pad22)" "Net-(SW13-Pad22)" "Net-(D11-Pad1)" "Net-(D18-Pad1)" "Net-(D19-Pad1)" "Net-(D20-Pad1)" "Net-(SW14-Pad22)" "Net-(SW15-Pad22)"
     "Net-(SW16-Pad22)" "Net-(D10-Pad1)" "Net-(SW5-Pad22)" "Net-(SW8-Pad22)" "Net-(D15-Pad1)" "Net-(D22-Pad1)" "Net-(D21-Pad1)" "Net-(D23-Pad1)"
     "Net-(D24-Pad1)" "Net-(D25-Pad1)" "Net-(SW17-Pad22)" "Net-(SW18-Pad22)" "Net-(SW19-Pad22)" "Net-(SW20-Pad22)" "Net-(SW21-Pad22)" "unconnected-(SW22-Pad22)"
-    "unconnected-(U1-Pad0)" "unconnected-(U1-Pad25)" /ENCA "unconnected-(U1-Pad15)" "unconnected-(U1-Pad16)"
+    "unconnected-(U1-Pad0)" "unconnected-(U1-Pad25)"
     (clearance_class Data)
     (via_rule Data)
     (rule
