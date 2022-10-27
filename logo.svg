@@ -10,6 +10,9 @@
    xml:space="preserve"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="402.28076"
-     inkscape:cy="392.61984"
+     inkscape:zoom="0.914906"
+     inkscape:cx="276.53114"
+     inkscape:cy="549.78325"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="1432"
@@ -67,18 +70,18 @@
        transform="translate(-111.62804)"><tspan
          x="166.97197"
          y="184.50438"
-         id="tspan12329"><tspan
+         id="tspan12351"><tspan
            style="font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math'"
-           id="tspan12327">Math
+           id="tspan12349">Math
 </tspan></tspan><tspan
          x="166.97197"
          y="213.13534"
-         id="tspan12333"><tspan
+         id="tspan12355"><tspan
            style="font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math'"
-           id="tspan12331">Crow
+           id="tspan12353">Crow
 </tspan></tspan><tspan
          x="166.97197"
          y="241.76629"
-         id="tspan12337"><tspan
+         id="tspan12359"><tspan
            style="font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math'"
-           id="tspan12335">Pad</tspan></tspan></text></g></svg>
+           id="tspan12357">Pad</tspan></tspan></text></g></svg>
