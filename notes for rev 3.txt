@@ -1,0 +1,5 @@
+north facing leds are better for backlight shinethroughs
+encoders with a single pad works gread
+
+might need a diffrent footprint for bluetooth controllers
+https://www.adafruit.com/product/5426
