@@ -474,7 +474,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "SouthPaw.dsn",
-      "step": "../Mech Cad Files/SouthPaw.step",
+      "step": "../Mech Cad Files/SouthPaw PCB only.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
