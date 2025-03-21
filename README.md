@@ -1,5 +1,5 @@
 # MathCrowPad
-![logo](logoBg.png)
+![logo](logoBG.png)
 ## The MathCrowPad is a numberpad for chemistry, math, and spreadsheets.
 
 Its main three features are:
