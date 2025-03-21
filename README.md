@@ -10,6 +10,6 @@ Its main three features are:
  * An oled screen to show guides for the knobs
  * An extra row for parenthisis(), exponent^, factorial!, latex syntax$$ etc.
 
-<img src="model.jpg" alt="model" width="300" />
+<img src="model.jpg" alt="model" width="900" />
 
 Feel free to make up to 10 for personal use.
